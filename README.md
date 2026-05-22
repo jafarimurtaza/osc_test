@@ -29,9 +29,9 @@ Then edit `.env`:
 
 ```env
 OSCA_API_KEY=<your OSCA bearer token>
-OSCA_BASE_URL=<OSCA engine base URL, e.g. https://engine.onepointltd.ai>
+OSCA_BASE_URL=<OSCA engine base URL>
 ANTHROPIC_API_KEY=<your Anthropic API key>
-PROJECT_NAME=<OSCA project name, e.g. onepoint_v3>
+PROJECT_NAME=<OSCA project name>
 ```
 
 > **Note:** `.env.locale` is the template file committed to the repo — it contains only placeholder values.  
